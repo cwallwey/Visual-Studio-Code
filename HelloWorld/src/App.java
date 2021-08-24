@@ -3,8 +3,6 @@ public class App {
     // mathematische Berechnungen
     public static int add(int a, int b) {
         return a + b;
-
-        // bla
     }
 
     public static int substract(int a, int b) {
